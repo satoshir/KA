@@ -8,4 +8,3 @@
 - Ruby<br>
 - Rails<br>
 - Git(HTTPS から SSH 通信へ変更)
-# KA
